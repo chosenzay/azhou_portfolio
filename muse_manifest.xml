@@ -1,0 +1,49 @@
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="azhou_portfolio.com" resolutions="1x" timestamp="1460855302046">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="4003955578" ref="index"/>
+    <file name="projects.css" crc="4146541309" ref="projects"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:projects"/>
+    <file name="museutils.js" crc="531812214" ref="index:projects"/>
+    <file name="whatinput.js" crc="84559013" ref="index:projects"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="index:projects"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:projects"/>
+  </folder>
+  <folder name="images">
+    <file name="webgif.gif" crc="141705709" ref="index"/>
+    <file name="resume.jpg" crc="518197985" ref="index"/>
+    <file name="arrow.png" crc="3813961763" ref="projects"/>
+    <file name="arrowh.png" crc="405591022" ref="projects"/>
+    <file name="zhoudragon.jpg" crc="3851300990" ref="projects"/>
+    <file name="yzy_realvsfake2.jpg" crc="4169183370" ref="projects"/>
+    <file name="icon_diablo.jpg" crc="451940266" ref="projects"/>
+    <file name="diabloapp.jpg" crc="3784038236" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午23405.jpg" crc="3892709368" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午23430.jpg" crc="81531090" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午41049.jpg" crc="3818363225" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午41112.jpg" crc="3781702703" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午41237.jpg" crc="397911232" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午41444.jpg" crc="209753182" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午41848.jpg" crc="378952852" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午41820.jpg" crc="417022698" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午43114.jpg" crc="3937022096" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午43132.jpg" crc="4167251329" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午43145.jpg" crc="282067320" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午43155.jpg" crc="478433858" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午43230.jpg" crc="4219130982" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午44015.jpg" crc="175501518" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午43300.jpg" crc="4270788207" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午43408.jpg" crc="4206240582" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午43416.jpg" crc="4203516471" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午43443.jpg" crc="3967676935" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午43427.jpg" crc="4107604403" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午43456.jpg" crc="316339299" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午43332.jpg" crc="4226699480" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午45636.jpg" crc="299222167" ref="projects"/>
+    <file name="屏幕快照 2016-04-16 下午50033.jpg" crc="360475202" ref="projects"/>
+  </folder>
+  <file name="index.html" crc="22203459" seo="true" mt="1460851681033" redirect="true"/>
+  <file name="projects.html" crc="434358864" seo="true" mt="1460852089190" redirect="true"/>
+</manifest>
